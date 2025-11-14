@@ -6,7 +6,7 @@ Try the deployed app here:
 **https://bbbgwuk9mxuvbcmqgfaru9.streamlit.app/**
 
 ## 📌 Overview
-Img_Caption is a Python project that uses a CNN encoder and a language-generation decoder to produce captions for images. It demonstrates end-to-end image captioning, from feature extraction to natural language generation.
+CaptionAI is a Python project that uses a CNN encoder and a LSTM decoder to produce captions for images. It demonstrates end-to-end image captioning, from feature extraction to natural language generation.
 
 ## ✨ Features
 - Generate captions for uploaded images
