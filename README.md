@@ -16,9 +16,9 @@ CaptionAI is a Python project that uses a CNN encoder and a LSTM decoder to prod
 
 ## 🧠 Tech Stack
 - Python 3.x
-- PyTorch / TensorFlow (depending on your implementation)
+- PyTorch 
 - CNN encoder (e.g., ResNet, Inception)
-- RNN/Transformer decoder
+- LSTM decoder
 - Streamlit for deployment
 - Jupyter Notebook for experimentation
 
